@@ -1,0 +1,6 @@
+.DS_Store
+/src/T3.Api/bin
+/src/T3.Api/obj
+/docs
+/tests/T3.Api.Tests/bin
+/tests/T3.Api.Tests/obj
